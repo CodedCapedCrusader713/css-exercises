@@ -1,0 +1,17 @@
+.odd-number{
+    background-color: pink;
+    font-family:  Verdana, "DejaVu Sans", sans-serif;
+}
+/*Mistake: font family name(ie woh font jo multiworded hain and space aata hai naam mein) ko "" mein daalna tha and generic family name(without space) ko bina "" ke likhna tha!
+Tune mix kardiya!!*/
+#second{
+    color: blue;
+    font-size: 36px;
+}
+.adjust-font-size{
+    font-size: 24px;
+}
+#fourth{
+    background-color: lightgreen;
+    font-weight: bold;
+}
